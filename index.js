@@ -29,4 +29,4 @@ if(command === "ping"){
     message.channel.send(`Pong!`)
 }
 })
-client.login(config.token)
+client.login(config.token) 
